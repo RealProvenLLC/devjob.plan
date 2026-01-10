@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devjob.plan – Tags</title>
+    <link>https://realprovenllc.github.io/devjob.plan/tags/</link>
+    <description>Recent content in Tags on devjob.plan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://realprovenllc.github.io/devjob.plan/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

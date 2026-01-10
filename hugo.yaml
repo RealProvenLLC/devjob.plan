@@ -1,0 +1,36 @@
+baseURL: https://realprovenllc.github.io/devjob.plan/
+languageCode: en-us
+title: devjob.plan
+theme: hextra
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  page:
+    width: full
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/djp-logo-med.png
+      width: 32
+      height: 32
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: false
+  footer:
+    displayCopyright: false # Hides the default copyright line
+    displayPoweredBy: false  # Hides the "Powered by Hugo & Hextra" text
+menu:
+  main:
+    - name: Support
+      pageRef: /support
+      weight: 5
+    - name: Privacy
+      pageRef: /privacy
+      weight: 6 
+    - name: Terms
+      pageRef: /tos
+      weight: 7 
