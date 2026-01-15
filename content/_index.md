@@ -9,7 +9,13 @@ toc: false
 The tech industry is not for the weak. Our skills are 
 [depreciating faster than ever before](https://www.forbes.com/sites/joemckendrick/2023/10/14/half-of-all-skills-will-be-outdated-within-two-years-study-suggests/) and the [competition to find new roles is higher than almost every other industry](https://devsu.com/blog/navigating-software-developer-turnover-challenges). We've all embraced the need to plan our careers carefully, learn constantly, and adapt quickly to succeed. When you leave the certainty of one job in search of another, why should your methodology be any different?
 
-Download **devjob.plan** (DJP) from the macOS App Store to organize and support your job change by tightly integrating journaling, discovery, and analytics—turning fragmented research into a disciplined, evolving process.
+Download **devjob.plan** (DJP) from the [macOS App Store](https://apps.apple.com/us/app/devjob-plan/id6756617057?mt=12devjob.plan) to organize and support your job change by tightly integrating journaling, discovery, and analytics—turning fragmented research into a disciplined, evolving process.
+
+<div style="display: flex; justify-content:center; align-items: center; margin: 2rem;">
+    <a href="https://apps.apple.com/us/app/devjob-plan/id6756617057?mt=12&itscg=30200&itsct=apps_box_badge&mttnsubad=6756617057" style="display: inline-block;">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1767916800" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
+    </a>
+</div>
 
 ![](app-promo-1.png)
 
